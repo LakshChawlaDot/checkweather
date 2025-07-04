@@ -1,0 +1,46 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
+#form{
+    position: absolute;
+    height: 200px;
+    width: 400px;
+    background-color: aliceblue;
+    border-style: solid;
+    display: flex;
+
+    justify-content: center;
+}
+input{
+    height: 40px;
+    width: 300px;
+    
+    background-color: white;
+    position: absolute;
+}
+button{
+    position: absolute;
+    margin-top: 120px;
+}
+/* #weatherResult{
+    position: absolute;
+    height: 200px;
+    width: 400px;
+    background-color: aliceblue;
+    border-style: solid;
+    display: flex;
+
+    justify-content: center;
+} */
