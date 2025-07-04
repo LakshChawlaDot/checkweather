@@ -1,2 +1,2 @@
 # checkweather
-this is my first absic frontend project which includes html,css and javascript
+this is my first basic frontend project which includes html,css and javascript
